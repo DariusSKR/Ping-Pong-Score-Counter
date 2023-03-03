@@ -1,6 +1,6 @@
 # Ping-Pong-Score-Counter
 
-A simple ping-pong game. It has 3 buttons to increase the score for each player and also a drop-down list to select the maximum score. The reset buttons, well, it's self-explanatory.
+A simple ping-pong game. It has 2 buttons to increase the score for each player and also a drop-down list to select the maximum score. The reset buttons, well, it's self-explanatory.
 
 When a player reaches the setted score, the buttons will be disasbled and winner displayed.
 
